@@ -50,7 +50,7 @@
 <!--- stats(start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
